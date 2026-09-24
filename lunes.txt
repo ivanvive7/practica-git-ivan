@@ -1,1 +1,2 @@
 Hoy hemos empezado el curso de Git
+Manana seguimos con el ciclo basico
