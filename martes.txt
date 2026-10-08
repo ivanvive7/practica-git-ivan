@@ -1,2 +1,3 @@
 Hoy hemos practicado el ciclo add y commit
 que dia mas bonito hace
+Añadida otra linea el martes
